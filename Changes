@@ -1,4 +1,7 @@
-Revision history for Games::Trackword
+Revision history for Games-Trackword
+====================================
+
+        - fixed distribution name in META.
 
 1.07    2012-12-31
         - change file dates changed to meet W3CDTF standards.
