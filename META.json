@@ -50,6 +50,11 @@
 
     "resources": {
         "license": "http://dev.perl.org/licenses/",
-        "bugtracker": { "web": "http://rt.cpan.org/Public/Dist/Display.html?Name=Games-Trackword" }
+        "bugtracker": { "web": "http://rt.cpan.org/Public/Dist/Display.html?Name=Games-Trackword" },
+        "repository": {
+            "url": "git://github.com/barbie/games-trackword.git",
+            "web": "http://github.com/barbie/games-trackword",
+            "type": "git"
+        }
     }
 }

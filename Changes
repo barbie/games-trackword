@@ -2,6 +2,7 @@ Revision history for Games-Trackword
 ====================================
 
         - fixed distribution name in META.
+        - added git repository links to metadata.
 
 1.07    2012-12-31
         - change file dates changed to meet W3CDTF standards.
