@@ -1,6 +1,7 @@
 Revision history for Games-Trackword
 ====================================
 
+1.08    2014-06-18
         - fixed distribution name in META.
         - added git repository links to metadata.
 
