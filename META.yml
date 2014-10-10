@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                   Games-Trackword
-version:                1.08
+version:                1.09
 abstract:               A module to help find words on a Trackword grid
 author:
   - Barbie <barbie@cpan.org>
@@ -23,7 +23,7 @@ build_requires:
 provides:
   Games::Trackword:
     file:     lib/Games/Trackword.pm
-    version:  1.08
+    version:  1.09
 no_index:
   directory:
     - t
